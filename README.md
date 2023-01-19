@@ -1,3 +1,3 @@
 # My Movies
 
-This is the public repositiry for my movie app.
+This is the public repository for my movie app.
